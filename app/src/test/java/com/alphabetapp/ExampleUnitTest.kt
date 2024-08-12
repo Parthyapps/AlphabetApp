@@ -1,4 +1,4 @@
-package com.alphabetapp
+package com.alphabetapp.kids
 
 import org.junit.Test
 

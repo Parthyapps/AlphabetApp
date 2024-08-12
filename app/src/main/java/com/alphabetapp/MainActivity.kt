@@ -1,4 +1,4 @@
-package com.alphabetapp
+package com.alphabetapp.kids
 
 import android.animation.ObjectAnimator
 import android.animation.PropertyValuesHolder
@@ -9,7 +9,7 @@ import android.widget.Button
 import android.widget.GridLayout
 import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
-import com.alphabetapp.databinding.ActivityMainBinding
+import com.alphabetapp.kids.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 
